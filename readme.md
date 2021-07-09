@@ -4,7 +4,7 @@ This repository is a collection of (for now only) Max 8 patches that provide qui
 
 ---
 
-### Where can I get more information about the OSC addresses available?
+## Where can I get more information about the OSC addresses available?
  **If you are in the iStage**
  Head over to the lighting computer (Leftmost computer) and open a web browser. Type in "http://127.0.0.1:4242" to access the web based reference material.
  
@@ -13,7 +13,7 @@ This repository is a collection of (for now only) Max 8 patches that provide qui
  
  ---
  
- ### I've used the old system, what's different?
+ ## I've used the old system, what's different?
  For the most part, everything OSC-wise got much simpler!
  
  **For Example**
@@ -31,7 +31,7 @@ If you instead wanted to only control the first lamp in the Source 4 group rathe
 
 ---
 
-### Where can I learn more about OSC?
+## Where can I learn more about OSC?
 The [official OSC website](http://opensoundcontrol.org/) is a good place to start!
 
 There are OSC implementations in almost any language you can think of, but here are a some common ones:
